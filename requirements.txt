@@ -1,5 +1,4 @@
 flask~=3.0.3
-scikit-learn~=1.5.1
 numpy~=1.26.4
 pandas~=2.2.2
 jupyter~=1.0.0
@@ -46,6 +45,3 @@ distributed~=2024.8.2
 dask~=2024.8.2
 psutil~=5.9.0
 cloudpickle~=3.0.0
-flask==3.0.3
-pytest
-scikit-learn==1.3.2
